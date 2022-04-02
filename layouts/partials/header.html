@@ -1,7 +1,15 @@
 <!-- Nav Bar -->
 <div class="px-6 md:px-24 lg:px-32">
-  <header class="py-7">
-    <a href="index.html" class="font-univers text-base text-white">Space
-      Governance</a>
+  <header class="py-12 flex justify-between">
+    <div class="mr-6 flex">
+      <a href="index.html" class="font-ibm text-3xl text-white">Space
+        Governance</a>
+    </div>
+    <ul class="md:flex items-center list-none hidden">
+      {{ range .Site.Menus.main }}
+      <li class="pl-16 py-2"><a href="{{ .URL }}" class="text-white pb-1">{{
+          .Name }}</a></li>
+      {{ end }}
+    </ul>
   </header>
 </div>
