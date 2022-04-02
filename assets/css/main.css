@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "ADELIA";
+  src: url("/assets/fonts/Univers-55-Roman.otf");
+}
