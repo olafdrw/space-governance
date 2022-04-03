@@ -1,6 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Space Governance"
+disablePathToLower = true
+enableGitInfo = true
 
 [markup.goldmark.renderer]
 unsafe = true
