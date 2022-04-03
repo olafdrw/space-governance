@@ -7,7 +7,8 @@
     </div>
     <ul class="md:flex items-center list-none hidden">
       {{ range .Site.Menus.main }}
-      <li class="pl-16 py-2"><a href="{{ .URL }}" class="text-white pb-1">{{
+      <li class="pl-16 py-2"><a href="{{ .URL }}" class="text-white
+          hover:text-gray-300 pb-1">{{
           .Name }}</a></li>
       {{ end }}
     </ul>
