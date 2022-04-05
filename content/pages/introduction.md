@@ -1,6 +1,6 @@
 ---
 title: Introduction
-suubtitle: Go Further
+subtitle: Go Further
 type: "page"
 ---
 

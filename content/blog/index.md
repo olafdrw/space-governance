@@ -1,8 +1,8 @@
 ---
-title: Explainer
+title: Blog
 description: 
 type: "page"
-layout: "explainer"
+layout: "blog"
 ---
 
 Under construction!

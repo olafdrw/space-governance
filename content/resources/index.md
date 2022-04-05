@@ -1,8 +1,8 @@
 ---
-title: Explainer
+title: Resources
 description: 
 type: "page"
-layout: "explainer"
+layout: "resources"
 ---
 
 Under construction!

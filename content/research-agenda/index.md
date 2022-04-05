@@ -1,8 +1,8 @@
 ---
-title: Explainer
+title: Research Agenda
 description: 
 type: "page"
-layout: "explainer"
+layout: "research-agenda"
 ---
 
 Under construction!

@@ -18,8 +18,8 @@ url = "/resources/"
 weight = 2
 
 [[menu.main]]
-name = "Agenda"
-url = "/agenda/"
+name = "Research Agenda"
+url = "/research-agenda/"
 weight = 3
 
 [[menu.main]]
