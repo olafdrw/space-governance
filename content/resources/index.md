@@ -5,4 +5,4 @@ type: "page"
 layout: "resources"
 ---
 
-Under construction!
+Find resources here. 

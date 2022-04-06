@@ -1,6 +1,6 @@
 ---
 title: Introduction
-subtitle: Go Further
+description: Space governance 
 type: "page"
 ---
 
