@@ -2,10 +2,11 @@
 title: Books
 description:
 type: "page"
+weight: 1
 ---
 
 *Space Expansionism*
-</br>
+___
 </br>
 
 [Dark Skies: Space Expansionism, Planetary Geopolitics, and the Ends of Humanity by Daniel Deudney (2020)](https://www.goodreads.com/book/show/49344786-dark-skies)
@@ -57,7 +58,7 @@ Explores the required technological advancements for humans to traverse to other
 </br>
 
 *Commercial*
-</br>
+___
 </br>
 
 [Space Is Open for Business: The Industry That Can Transform Humanity by Robert Jacobson (2020)](https://www.goodreads.com/book/show/54793543-space-is-open-for-business)
@@ -77,7 +78,7 @@ Tells the story of how several entrepreneurs and billionaires came to the forefr
 </br>
 
 *Military and Policy*
-</br>
+___
 </br>
 
 [Accessory to War: The Unspoken Alliance between Astrophyics and the Military by Neil deGrasse Tyson and Avis Lang (2018)](https://www.goodreads.com/book/show/44157732-accessory-to-war?ac=1&from_search=true&qid=bTHQLKTrCt&rank=1)
@@ -97,7 +98,7 @@ A collection of books published by Springer to explore astronomy and the space s
 </br>
 
 *SETI*
-</br>
+___
 </br>
 
 [Encountering Life in the Universe by Chris Impey, Anna H. Spitz, and William Stoeger (2013)](https://uapress.arizona.edu/book/encountering-life-in-the-universe)
@@ -113,6 +114,4 @@ Explores the intersection of philosophy and ethics with astrobiology, describing
 </br>
 
 Discusses the implications of a contact scenario with extraterrestrial intelligence.
-</br>
-</br>
 
