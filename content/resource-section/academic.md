@@ -5,6 +5,10 @@ type: "page"
 weight: 5
 ---
 
+[Private Eyes in the Sky: Emerging Technology and the Political Consequences of Eroding Government Secrecy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3745737) (Greenberg and Milonopoulos, 2020)
+</br>
+</br>
+
 [Breakthrough Starshot](https://breakthroughinitiatives.org/research/3) has compiled research on the feasibility on interstellar travel, particularly through the use of light-driven nanocrafts
 </br>
 </br>
