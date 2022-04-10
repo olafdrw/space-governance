@@ -5,4 +5,4 @@ type: "page"
 layout: "blog"
 ---
 
-Under construction!
+Find our community's latest articles on space governance from a longermist perspective.

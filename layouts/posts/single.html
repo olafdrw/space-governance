@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Head -->
+  {{ partial "head.html" .}}
+  <body class="font-ibm">
+    <div class="h-1/2 max-w-screen-2xl bg-zinc-900">
+      <!-- Header -->
+      {{ partial "header.html" .}}
+      <div class="py-8 lg:py-14 px-2 md:px-24 lg:px-80
+        animate-fade-in-up">
+        <p class="font-medium text-2xl md:text-3xl text-white">{{ .Title }}</p>
+        <div class="font-normal text-base md:text-lg pt-4 text-white">{{ .Param "author" }} | {{ .Date.Format "Jan 2, 2006" }}
+        </div>
+      </div>
+    </div>
+    <div class="px-2 md:px-24 lg:px-80 items-center">
+      <div class="py-12 md:py-16 animate-fade-in-up font-light leading-relaxed text-sm md:text-lg text-zinc-900">
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
+  </div>
+  <!-- Footer -->
+  {{ partial "footer.html" .}}
+  </div>
+  </body>
+</html>
