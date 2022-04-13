@@ -9,11 +9,11 @@
     </div>
     <div class="pt-2 md:pt-4 font-normal text-sm text-zinc-900
       md:leading-6 hidden sm:block">
-      {{ .Content | truncate 600 }}
+      {{ .Content | truncate 300 }}
     </div>
     <div class="pt-2 md:pt-4 font-normal text-sm text-zinc-900
       md:leading-6 sm:hidden block">
-      {{ .Content | truncate 300 }}
+      {{ .Content | truncate 250 }}
     </div>
     <div class="pt-2 md:pt-4 font-normal text-xs md:text-sm text-zinc-900">
       <p>{{.Param "author" }}</p>
