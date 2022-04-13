@@ -3,6 +3,8 @@ title: The Threat of Hypersonic Weapons in the New Arms Race
 author: Carson Ezell
 date: 2022-04-10T00:00:01+0000
 summary: "In 2021, China conducted a successful test of a hypersonic glide vehicle. In its invasion of Ukraine, Russia claimed to have launched the first hypersonic cruise missile ever used in combat. Shortly after, the United States, United Kingdom, and Australia alliance (AUKUS) announced closer collaboration on hypersonic technology. Hypersonic weapons are poised to be a key element of the new arms race between China and the West, and the competition to develop them creates several new risks and strategic considerations for the international community."
+images: /images/hypersonic.jpg
+source: Wikimedia Commons
 ---
 
 In late 2021, a missile launched above the atmosphere released a device that raced toward its target at hypersonic speed, concluding a successful test of a [hypersonic glide vehicle](https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/220404_Harrison_SpaceThreatAssessment2022.pdf?K4A9o_D9NmYG2Gv98PxNigLxS4oYpHRa) for China. The test temporarily brought the race to develop hypersonic capabilities into the headlines, but it has been well underway for years.
