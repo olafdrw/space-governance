@@ -678,6 +678,10 @@ a {
   padding-top: 0.5rem;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .font-ibm {
   font-family: IBM Plex Sans, sans-serif;
 }
@@ -700,6 +704,11 @@ a {
 .text-lg {
   font-size: 1.125rem;
   line-height: 1.75rem;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
 }
 
 .text-3xl {
@@ -806,6 +815,11 @@ a {
     padding-bottom: 4rem;
   }
 
+  .md\:py-12 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
   .md\:py-14 {
     padding-top: 3.5rem;
     padding-bottom: 3.5rem;
@@ -889,14 +903,14 @@ a {
     padding-bottom: 3.5rem;
   }
 
-  .lg\:px-56 {
-    padding-left: 14rem;
-    padding-right: 14rem;
-  }
-
   .lg\:px-80 {
     padding-left: 20rem;
     padding-right: 20rem;
+  }
+
+  .lg\:px-56 {
+    padding-left: 14rem;
+    padding-right: 14rem;
   }
 
   .lg\:pt-28 {
