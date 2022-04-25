@@ -5,7 +5,7 @@ type: "page"
 layout: "explainer"
 ---
 
-Contributors: Madeleine Chang, Carson Ezell, Olaf Willner
+Contributors: [Madeleine Chang](http://madchang.com/), [Carson Ezell](http://carsonezell.com/), [Olaf Willner](https://olafwillner.com/)
 </br>
 </br>
 
