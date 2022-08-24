@@ -6,11 +6,23 @@
         no-underline">Space
         Futures Initiative</a>
     </div>
-    <ul class="md:flex items-center list-none hidden font-ibm">
+    <ul class="md:flex list-none hidden font-ibm">
       {{ range .Site.Menus.main }}
-      <li class="pl-16 py-2"><a href="{{ .URL }}" class="text-black
-          hover:text-gray-300 pb-1">{{
-          .Name }}</a></li>
+      <div class="ml-16 my-2">
+        <li class="peer"><a href="{{ .URL }}" class="text-black
+            hover:text-gray-300 pb-1">{{ .Name }}</a></li>
+        {{ if .HasChildren }}
+        <div class="hidden peer-hover:block hover:block bg-white text-left
+          left-auto absolute">
+          {{ range .Children }}
+          <div>
+            <a href="{{ .URL }}" class="text-black
+              hover:text-gray-300">{{ .Name }}</a>
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
       {{ end }}
     </ul>
     <button id="open" class="sm:hidden flex items-center">
