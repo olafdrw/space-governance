@@ -8,21 +8,40 @@ enableGitInfo = true
 unsafe = true
 
 [[menu.main]]
+identifier = "about"
 name = "About"
 url = "/about/"
 weight = 1
+  [[menu.main]]
+  name = "Team"
+  url = "/team/"
+  weight = 1
+  parent = "About"
 
 [[menu.main]]
+identifier = "research"
 name = "Research"
 url = "/research/"
 weight = 2
+  [[menu.main]]
+  name = "Research Agenda"
+  url = "/research-agenda/"
+  weight = 1
+  parent = "research"
+  [[menu.main]]
+  name = "Explainer"
+  url = "/explainer/"
+  weight = 2
+  parent = "research"
 
 [[menu.main]]
+identifier = "opportunities"
 name = "Opportunities"
 url = "/opportunities/"
 weight = 3
 
 [[menu.main]]
+identifier = "blog"
 name = "Blog"
 url = "/blog/"
 weight = 4
