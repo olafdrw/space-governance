@@ -15,7 +15,7 @@
     </ul>
     <button id="open" class="sm:hidden flex items-center">
       <svg class="block h-6 w-6 sm:hidden" xmlns="http://www.w3.org/2000/svg"
-        fill="none" viewBox="0 0 20 20" stroke="white">
+        fill="none" viewBox="0 0 20 20" stroke="black">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
           d="M4 6h16M4 12h16M4 18h16" />
         </svg>
@@ -26,10 +26,10 @@
   <!-- Responsive Nav Bar -->
   <div id="nav" class="hidden overflow-y-hidden fixed h-screen inset-0
     bg-zinc-900">
-    <button id="close" class="z-10 absolute text-4xl text-sea-blue p-4">&times;</button>
+    <button id="close" class="z-10 absolute text-4xl text-white p-4">&times;</button>
     <div id="text" class="relative pt-16 w-screen text-center">
       {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}" class="text-lg py-5 text-sea-blue block">{{ .Name }}</a>
+      <a href="{{ .URL }}" class="text-lg py-5 text-white block">{{ .Name }}</a>
       {{ end }}
     </div>
   </div>
