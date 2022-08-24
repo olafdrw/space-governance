@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://spacefuturesinitiative.org/"
 languageCode = "en-us"
-title = "Space Governance"
+title = "Space Futures Initiative"
 disablePathToLower = true
 enableGitInfo = true
 
@@ -8,18 +8,18 @@ enableGitInfo = true
 unsafe = true
 
 [[menu.main]]
-name = "Explainer"
-url = "/explainer/"
+name = "About"
+url = "/about/"
 weight = 1
 
 [[menu.main]]
-name = "Resources"
-url = "/resources/"
+name = "Research"
+url = "/research/"
 weight = 2
 
 [[menu.main]]
-name = "Research Agenda"
-url = "/research-agenda/"
+name = "Opportunities"
+url = "/opportunities/"
 weight = 3
 
 [[menu.main]]

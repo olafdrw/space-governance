@@ -2,12 +2,13 @@
 <div class="px-6 md:px-24 lg:px-32">
   <header class="py-12 flex justify-between">
     <div class="mr-6 flex">
-      <a href="/index.html" class="font-ibm text-3xl text-white no-underline">Space
-        Governance</a>
+      <a href="/index.html" class="font-ibm text-3xl text-black
+        no-underline">Space
+        Futures Initiative</a>
     </div>
     <ul class="md:flex items-center list-none hidden font-ibm">
       {{ range .Site.Menus.main }}
-      <li class="pl-16 py-2"><a href="{{ .URL }}" class="text-white
+      <li class="pl-16 py-2"><a href="{{ .URL }}" class="text-black
           hover:text-gray-300 pb-1">{{
           .Name }}</a></li>
       {{ end }}
@@ -25,10 +26,10 @@
   <!-- Responsive Nav Bar -->
   <div id="nav" class="hidden overflow-y-hidden fixed h-screen inset-0
     bg-zinc-900">
-    <button id="close" class="z-10 absolute text-4xl text-white p-4">&times;</button>
+    <button id="close" class="z-10 absolute text-4xl text-sea-blue p-4">&times;</button>
     <div id="text" class="relative pt-16 w-screen text-center">
       {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}" class="text-lg py-5 text-white block">{{ .Name }}</a>
+      <a href="{{ .URL }}" class="text-lg py-5 text-sea-blue block">{{ .Name }}</a>
       {{ end }}
     </div>
   </div>

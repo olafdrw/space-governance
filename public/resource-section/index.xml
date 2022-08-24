@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resource-sections on Space Governance</title>
+    <link>http://example.org/resource-section/</link>
+    <description>Recent content in Resource-sections on Space Governance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/resource-section/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>http://example.org/resource-section/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resource-section/books/</guid>
+      <description>Space Expansionism
+  Dark Skies: Space Expansionism, Planetary Geopolitics, and the Ends of Humanity by Daniel Deudney (2020)  
+An overview of both past and present arguments and visions for space expansionism and mega-projects, exploring their feasibility and implications. Deudney expresses reservations about future space expansionism and argues that space colonization would increase the longterm risk to humanity. The book offers a comprehensive summary of space expansionism and its potential from the negative perspective.</description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://example.org/resource-section/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resource-section/writing/</guid>
+      <description>Space governance by Fin Moorhouse (2022) - An 80,000 Hours problem profile which outlines the concerns in space exploration and governance, weighs the arguments for whether space governance is a pressing problem, and proposes effective ways to get involved  
+Space governance is important, tractable and neglected by Tobias Baumann (2020) - A blog post describing why space governance should be a cause area for Effective Altruists and ideal space governance scenarios</description>
+    </item>
+    
+    <item>
+      <title>Historical</title>
+      <link>http://example.org/resource-section/historical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resource-section/historical/</guid>
+      <description>Robert Zubrin, Entering Space: Creating a Spacefaring Civilization (1999)  
+John Lewis, Mining the Sky: Untold Riches From The Asteroids, Comets, And Planets (1997)  
+Robert Zubrin, The Case for Mars (1996)  
+Carl Sagan, Pale Blue Dot: A Vision of the Human Future in Space (1994)  
+Frank White, The Overview Effect: Space Exploration and Human Evolution (1987)  
+James Oberg, New Earths: Restructuring Earth and Other Planets (1983)</description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>http://example.org/resource-section/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resource-section/podcasts/</guid>
+      <description>Space Forward - Aims to break down human expansion into space to actionable steps and first principles.  
+Settle the Stars - Explores the science of space exploration, including settlement and terraforming.  
+StarTalk Radio - Although not solely focused on space exploration and settlement, StarTalk Radio, hosted by Neil deGrasse Tyson, is one of the most popular science podcasts, and it frequently explores topics relevant to space governance.</description>
+    </item>
+    
+    <item>
+      <title>Academic Articles</title>
+      <link>http://example.org/resource-section/academic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resource-section/academic/</guid>
+      <description>Private Eyes in the Sky: Emerging Technology and the Political Consequences of Eroding Government Secrecy (Greenberg and Milonopoulos, 2020)  
+Breakthrough Starshot has compiled research on the feasibility on interstellar travel, particularly through the use of light-driven nanocrafts  
+Space races: settling the universe fast (Sandberg, 2018)  
+A Roadmap to Interstellar Flight (Lubin, 2016)  
+Limits and Signatures of Relativistic Spaceflight (Yurtsever and Wilkinson, 2015)</description>
+    </item>
+    
+    <item>
+      <title>Legal texts</title>
+      <link>http://example.org/resource-section/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resource-section/legal/</guid>
+      <description>Building Blocks for the Development of an International Framework for the Governance of Space Resource Activities: A Commentary by Olavo de O. Bittencourt Neto, Mahulena Hofmann, Tanja Masson-Zwaan, and Dimitra Stefoudi (2020) - Discusses future governance frameworks for the use of space resources as discussed by The Hague International Space Resources Governance Group  
+Space arms control: Lex lata and currently active proposals by Jinyuan SU (2017) - Analyzes new international space law proposals in light of growing military space programs, analyzing challenges to verification and agreement.</description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>http://example.org/resource-section/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resource-section/other/</guid>
+      <description>List of World Space Agencies  
+List of Outer Space Treaties  
+NASA Policy Documents  
+UNOOSA Documents and Resolutions  
+UK Space Capabilities Catalogue</description>
+    </item>
+    
+  </channel>
+</rss>

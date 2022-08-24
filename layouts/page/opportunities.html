@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Head -->
+  {{ partial "head.html" .}}
+  <body class="font-ibm">
+      <div class="max-w-screen-2xl mx-auto">
+        <!-- Header -->
+        {{ partial "header.html" .}}
+        <div class="py-8 md:py-12 lg:py-18 px-6 md:px-24 lg:px-80
+          animate-fade-in-up">
+          <p class="font-normal text-4xl text-black">{{ .Title }}</p>
+          <div class="font-normal text-base md:text-lg pt-4 text-black">{{ .Param "description"}}</div>
+           </div>
+      </div>
+      <div class="px-6 md:px-24 lg:px-80 items-center max-w-screen-2xl mx-auto">
+        <div class="pb-12 md:pb-16 leading-relaxed text-base md:text-lg text-black">
+          <p>{{ .Content }}</p>
+        </div>
+      </div>
+  </div>
+  <!-- Footer -->
+  {{ partial "footer.html" .}}
+  </div>
+  </body>
+</html>
