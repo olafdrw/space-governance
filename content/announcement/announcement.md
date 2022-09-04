@@ -1,5 +1,5 @@
 ---
-title: About
+title: Announcement
 description:
 type: "page"
 layout: "about"
@@ -37,11 +37,3 @@ Share an academic research proposal related to space governance or space futures
 </br>
 
 Send an email to carson@spacefuturesinitiative.org or olaf@spacefuturesinitiative.org with any other ideas or feedback.
-</br>
-</br>
-
-This website was made by [Olaf Willner](https://olafwillner.com/), with valuable help from [Carson Ezell](http://carsonezell.com/) and [Maddy Chang](https://madchang.com/).
-</br>
-</br>
-
-I would like to thank [Fin Moorhouse](https://www.finmoorhouse.com/) and [Madeleine Chang](http://madchang.com/) for their generous help and guidance.
