@@ -1,0 +1,12 @@
+<div class="items-center max-w-screen-2xl mx-auto">
+  <div class="leading-relaxed text-base md:text-lg text-black">
+    <p>{{ .Content }}</p>
+  </div>
+  <div class="pt-4 md:pt-8">
+    {{ range (where .Site.Pages "Section" "papers") }}
+    {{ range .Pages }}
+    {{ partial "list-item.html" .}}
+    {{ end }}
+    {{ end }}
+  </div>
+</div>

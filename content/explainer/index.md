@@ -1,6 +1,6 @@
 ---
 title: Explainer
-description: An introduction to space governance
+description: A short introduction to space governance.
 type: "page"
 layout: "explainer"
 ---

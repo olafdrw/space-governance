@@ -33,6 +33,11 @@ weight = 2
   url = "/explainer/"
   weight = 2
   parent = "research"
+  [[menu.main]]
+  name = "Papers"
+  url = "/papers/"
+  weight = 3
+  parent = "research"
 
 [[menu.main]]
 identifier = "opportunities"
