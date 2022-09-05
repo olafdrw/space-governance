@@ -2,65 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/resource-section/books/</loc>
+    <loc>http://spacefuturesinitiative.org/resource-section/books/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/resource-section/writing/</loc>
+    <loc>http://spacefuturesinitiative.org/resource-section/writing/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/resource-section/historical/</loc>
+    <loc>http://spacefuturesinitiative.org/resource-section/historical/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/resource-section/podcasts/</loc>
+    <loc>http://spacefuturesinitiative.org/resource-section/podcasts/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/resource-section/academic/</loc>
+    <loc>http://spacefuturesinitiative.org/resource-section/academic/</loc>
     <lastmod>2022-04-07T23:06:26-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/resource-section/legal/</loc>
+    <loc>http://spacefuturesinitiative.org/resource-section/legal/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/resource-section/other/</loc>
+    <loc>http://spacefuturesinitiative.org/resource-section/other/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-04-12T20:10:00-04:00</lastmod>
+    <loc>http://spacefuturesinitiative.org/papers/</loc>
+    <lastmod>2022-09-05T14:38:06-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-04-12T20:10:00-04:00</lastmod>
+    <loc>http://spacefuturesinitiative.org/</loc>
+    <lastmod>2022-09-05T14:38:06-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/threat-hypersonic-carson/</loc>
-    <lastmod>2022-04-12T20:10:00-04:00</lastmod>
+    <loc>http://spacefuturesinitiative.org/papers/carson-paper/</loc>
+    <lastmod>2022-09-05T14:38:06-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
-    <lastmod>2022-04-25T20:48:53-04:00</lastmod>
+    <loc>http://spacefuturesinitiative.org/posts/</loc>
+    <lastmod>2022-08-24T11:18:02-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://spacefuturesinitiative.org/posts/carson-podcast/</loc>
+    <lastmod>2022-08-24T11:18:02-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/posts/threat-hypersonic-carson/</loc>
+    <lastmod>2022-08-24T11:18:02-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/about/</loc>
+    <lastmod>2022-09-04T18:47:31-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/announcement/announcement/</loc>
+    <lastmod>2022-09-04T18:47:31-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/announcement/</loc>
+    <lastmod>2022-09-04T18:47:31-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/blog/</loc>
     <lastmod>2022-04-09T21:28:01-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://spacefuturesinitiative.org/team-members/carson/</loc>
+    <lastmod>2022-09-01T22:25:59-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/explainer/</loc>
-    <lastmod>2022-04-25T14:33:02-04:00</lastmod>
+    <loc>http://spacefuturesinitiative.org/categories/</loc>
   </url><url>
-    <loc>http://example.org/pages/further/</loc>
+    <loc>http://spacefuturesinitiative.org/explainer/</loc>
+    <lastmod>2022-09-05T14:38:06-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/pages/further/</loc>
     <lastmod>2022-04-03T20:35:03-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/pages/introduction/</loc>
+    <loc>http://spacefuturesinitiative.org/grants/</loc>
+    <lastmod>2022-08-23T21:20:20-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/pages/introduction/</loc>
     <lastmod>2022-04-06T18:11:52-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/pages/</loc>
+    <loc>http://spacefuturesinitiative.org/team-members/maddy/</loc>
+    <lastmod>2022-09-01T22:25:59-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/team-members/olaf/</loc>
+    <lastmod>2022-09-01T22:25:59-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/opportunities/</loc>
+    <lastmod>2022-08-23T22:22:05-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/pages/</loc>
     <lastmod>2022-04-06T18:11:52-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/research-agenda/</loc>
+    <loc>http://spacefuturesinitiative.org/papers-intro/</loc>
+    <lastmod>2022-09-05T14:38:06-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/research/</loc>
+    <lastmod>2022-09-05T14:38:06-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/research-agenda/</loc>
     <lastmod>2022-04-05T00:38:15-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/resource-section/</loc>
+    <loc>http://spacefuturesinitiative.org/resource-section/</loc>
     <lastmod>2022-04-07T23:06:26-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/resources/</loc>
+    <loc>http://spacefuturesinitiative.org/resources/</loc>
     <lastmod>2022-04-24T22:45:12-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://spacefuturesinitiative.org/tags/</loc>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/team/</loc>
+    <lastmod>2022-09-01T22:25:59-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/team-members/</loc>
+    <lastmod>2022-09-01T22:25:59-04:00</lastmod>
   </url>
 </urlset>

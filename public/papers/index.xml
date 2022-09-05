@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on Space Futures Initiative</title>
+    <link>http://spacefuturesinitiative.org/papers/</link>
+    <description>Recent content in Papers on Space Futures Initiative</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:01 +0000</lastBuildDate><atom:link href="http://spacefuturesinitiative.org/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Governance: Risks, Frameworks and Futures</title>
+      <link>http://spacefuturesinitiative.org/papers/carson-paper/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:01 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/papers/carson-paper/</guid>
+      <description>SFI Director Carson Ezell wrote a research paper at CERI describing the space governance landscape and offering novel longtermist ideas to &amp;ldquo;improve the norms, values, and institutional structures that guide future spacefaring&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

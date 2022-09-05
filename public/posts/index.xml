@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Space Governance</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Space Governance</description>
+    <title>Posts on Space Futures Initiative</title>
+    <link>http://spacefuturesinitiative.org/posts/</link>
+    <description>Recent content in Posts on Space Futures Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:01 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:01 +0000</lastBuildDate><atom:link href="http://spacefuturesinitiative.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Governance with Carson Ezell - The Good Pod</title>
+      <link>http://spacefuturesinitiative.org/posts/carson-podcast/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:01 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/posts/carson-podcast/</guid>
+      <description>SFI Director Carson Ezell was interviewed by Nathan Barnard on The Good Pod, a podcast showcasing conversations &amp;ldquo;thinking about the best way to help people&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>The Threat of Hypersonic Weapons in the New Arms Race</title>
-      <link>http://example.org/posts/threat-hypersonic-carson/</link>
+      <link>http://spacefuturesinitiative.org/posts/threat-hypersonic-carson/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:01 +0000</pubDate>
       
-      <guid>http://example.org/posts/threat-hypersonic-carson/</guid>
-      <description>In 2021, China conducted a successful test of a hypersonic glide vehicle. In its invasion of Ukraine, Russia claimed to have launched the first hypersonic cruise missile ever used in combat. Shortly after, the United States, United Kingdom, and Australia alliance (AUKUS) announced closer collaboration on hypersonic technology. Hypersonic weapons are poised to be a key element of the new arms race between China and the West, and the competition to develop them creates several new risks and strategic considerations for the international community.</description>
+      <guid>http://spacefuturesinitiative.org/posts/threat-hypersonic-carson/</guid>
+      <description>In late 2021, a missile launched above the atmosphere released a device that raced toward its target at hypersonic speed, concluding a successful test of a hypersonic glide vehicle for China. The test temporarily brought the race to develop hypersonic capabilities into the headlines, but it has been well underway for years.  
+Hypersonic weapons are among the most recent advanced technologies being developed by top militaries globally to maintain strategic advantage.</description>
     </item>
     
   </channel>

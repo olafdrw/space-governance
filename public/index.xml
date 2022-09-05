@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Space Governance</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Space Governance</description>
+    <title>Space Futures Initiative</title>
+    <link>http://spacefuturesinitiative.org/</link>
+    <description>Recent content on Space Futures Initiative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:01 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:01 +0000</lastBuildDate><atom:link href="http://spacefuturesinitiative.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>http://example.org/resource-section/books/</link>
+      <link>http://spacefuturesinitiative.org/resource-section/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resource-section/books/</guid>
+      <guid>http://spacefuturesinitiative.org/resource-section/books/</guid>
       <description>Space Expansionism
   Dark Skies: Space Expansionism, Planetary Geopolitics, and the Ends of Humanity by Daniel Deudney (2020)  
 An overview of both past and present arguments and visions for space expansionism and mega-projects, exploring their feasibility and implications. Deudney expresses reservations about future space expansionism and argues that space colonization would increase the longterm risk to humanity. The book offers a comprehensive summary of space expansionism and its potential from the negative perspective.</description>
@@ -20,20 +20,20 @@ An overview of both past and present arguments and visions for space expansionis
     
     <item>
       <title>Writing</title>
-      <link>http://example.org/resource-section/writing/</link>
+      <link>http://spacefuturesinitiative.org/resource-section/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resource-section/writing/</guid>
+      <guid>http://spacefuturesinitiative.org/resource-section/writing/</guid>
       <description>Space governance by Fin Moorhouse (2022) - An 80,000 Hours problem profile which outlines the concerns in space exploration and governance, weighs the arguments for whether space governance is a pressing problem, and proposes effective ways to get involved  
 Space governance is important, tractable and neglected by Tobias Baumann (2020) - A blog post describing why space governance should be a cause area for Effective Altruists and ideal space governance scenarios</description>
     </item>
     
     <item>
       <title>Historical</title>
-      <link>http://example.org/resource-section/historical/</link>
+      <link>http://spacefuturesinitiative.org/resource-section/historical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resource-section/historical/</guid>
+      <guid>http://spacefuturesinitiative.org/resource-section/historical/</guid>
       <description>Robert Zubrin, Entering Space: Creating a Spacefaring Civilization (1999)  
 John Lewis, Mining the Sky: Untold Riches From The Asteroids, Comets, And Planets (1997)  
 Robert Zubrin, The Case for Mars (1996)  
@@ -44,10 +44,10 @@ James Oberg, New Earths: Restructuring Earth and Other Planets (1983)</descripti
     
     <item>
       <title>Podcasts</title>
-      <link>http://example.org/resource-section/podcasts/</link>
+      <link>http://spacefuturesinitiative.org/resource-section/podcasts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resource-section/podcasts/</guid>
+      <guid>http://spacefuturesinitiative.org/resource-section/podcasts/</guid>
       <description>Space Forward - Aims to break down human expansion into space to actionable steps and first principles.  
 Settle the Stars - Explores the science of space exploration, including settlement and terraforming.  
 StarTalk Radio - Although not solely focused on space exploration and settlement, StarTalk Radio, hosted by Neil deGrasse Tyson, is one of the most popular science podcasts, and it frequently explores topics relevant to space governance.</description>
@@ -55,10 +55,10 @@ StarTalk Radio - Although not solely focused on space exploration and settlement
     
     <item>
       <title>Academic Articles</title>
-      <link>http://example.org/resource-section/academic/</link>
+      <link>http://spacefuturesinitiative.org/resource-section/academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resource-section/academic/</guid>
+      <guid>http://spacefuturesinitiative.org/resource-section/academic/</guid>
       <description>Private Eyes in the Sky: Emerging Technology and the Political Consequences of Eroding Government Secrecy (Greenberg and Milonopoulos, 2020)  
 Breakthrough Starshot has compiled research on the feasibility on interstellar travel, particularly through the use of light-driven nanocrafts  
 Space races: settling the universe fast (Sandberg, 2018)  
@@ -68,20 +68,20 @@ Limits and Signatures of Relativistic Spaceflight (Yurtsever and Wilkinson, 2015
     
     <item>
       <title>Legal texts</title>
-      <link>http://example.org/resource-section/legal/</link>
+      <link>http://spacefuturesinitiative.org/resource-section/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resource-section/legal/</guid>
+      <guid>http://spacefuturesinitiative.org/resource-section/legal/</guid>
       <description>Building Blocks for the Development of an International Framework for the Governance of Space Resource Activities: A Commentary by Olavo de O. Bittencourt Neto, Mahulena Hofmann, Tanja Masson-Zwaan, and Dimitra Stefoudi (2020) - Discusses future governance frameworks for the use of space resources as discussed by The Hague International Space Resources Governance Group  
 Space arms control: Lex lata and currently active proposals by Jinyuan SU (2017) - Analyzes new international space law proposals in light of growing military space programs, analyzing challenges to verification and agreement.</description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>http://example.org/resource-section/other/</link>
+      <link>http://spacefuturesinitiative.org/resource-section/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resource-section/other/</guid>
+      <guid>http://spacefuturesinitiative.org/resource-section/other/</guid>
       <description>List of World Space Agencies  
 List of Outer Space Treaties  
 NASA Policy Documents  
@@ -90,39 +90,77 @@ UK Space Capabilities Catalogue</description>
     </item>
     
     <item>
+      <title>Space Governance: Risks, Frameworks and Futures</title>
+      <link>http://spacefuturesinitiative.org/papers/carson-paper/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:01 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/papers/carson-paper/</guid>
+      <description>SFI Director Carson Ezell wrote a research paper at CERI describing the space governance landscape and offering novel longtermist ideas to &amp;ldquo;improve the norms, values, and institutional structures that guide future spacefaring&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Space Governance with Carson Ezell - The Good Pod</title>
+      <link>http://spacefuturesinitiative.org/posts/carson-podcast/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:01 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/posts/carson-podcast/</guid>
+      <description>SFI Director Carson Ezell was interviewed by Nathan Barnard on The Good Pod, a podcast showcasing conversations &amp;ldquo;thinking about the best way to help people&amp;rdquo;.</description>
+    </item>
+    
+    <item>
       <title>The Threat of Hypersonic Weapons in the New Arms Race</title>
-      <link>http://example.org/posts/threat-hypersonic-carson/</link>
+      <link>http://spacefuturesinitiative.org/posts/threat-hypersonic-carson/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:01 +0000</pubDate>
       
-      <guid>http://example.org/posts/threat-hypersonic-carson/</guid>
-      <description>In 2021, China conducted a successful test of a hypersonic glide vehicle. In its invasion of Ukraine, Russia claimed to have launched the first hypersonic cruise missile ever used in combat. Shortly after, the United States, United Kingdom, and Australia alliance (AUKUS) announced closer collaboration on hypersonic technology. Hypersonic weapons are poised to be a key element of the new arms race between China and the West, and the competition to develop them creates several new risks and strategic considerations for the international community.</description>
+      <guid>http://spacefuturesinitiative.org/posts/threat-hypersonic-carson/</guid>
+      <description>In late 2021, a missile launched above the atmosphere released a device that raced toward its target at hypersonic speed, concluding a successful test of a hypersonic glide vehicle for China. The test temporarily brought the race to develop hypersonic capabilities into the headlines, but it has been well underway for years.  
+Hypersonic weapons are among the most recent advanced technologies being developed by top militaries globally to maintain strategic advantage.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://spacefuturesinitiative.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
-      <description>This website was made by Olaf Willner, a student at Cornell University and a research fellow at the Tech Policy Lab, with valuable help from Carson Ezell.  
-I would like to thank Fin Moorhouse and Madeleine Chang for their generous help and guidance.</description>
+      <guid>http://spacefuturesinitiative.org/about/</guid>
+      <description>The Space Futures Initiative is funded by the FTX Future Fund. The Initiative is led by co-directors Carson Ezell, Madeleine Chang and Olaf Willner. Our mission is to conduct research, education, and outreach to improve the longterm future in outer space for humanity and its descendants.
+ The Space Futures Initiative Inc. is a non-profit company.</description>
+    </item>
+    
+    <item>
+      <title>Announcement</title>
+      <link>http://spacefuturesinitiative.org/announcement/announcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/announcement/announcement/</guid>
+      <description>We are excited to announce the Space Futures Initiative, which has a mission of conducting research, education, and outreach to improve the longterm future in outer space for humanity and its descendants.  
+Improving space governance frameworks and promoting longtermist norms and values for positive space futures are currently highly neglected areas. Addressing these problems requires collaboration between the longtermist community, space policy community, space industry, scientific community, and beyond.</description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>http://example.org/blog/</link>
+      <link>http://spacefuturesinitiative.org/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/</guid>
+      <guid>http://spacefuturesinitiative.org/blog/</guid>
       <description>Find our community&amp;rsquo;s latest articles on space governance from a longermist perspective.</description>
     </item>
     
     <item>
-      <title>Explainer</title>
-      <link>http://example.org/explainer/</link>
+      <title>Carson Ezell</title>
+      <link>http://spacefuturesinitiative.org/team-members/carson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/explainer/</guid>
+      <guid>http://spacefuturesinitiative.org/team-members/carson/</guid>
+      <description>Carson Ezell is an undergraduate at Harvard College. He has been a research fellow with the Cambridge Existential Risk Initiative and Center for Space Governance. He is also a member of the research team of the Galileo Project. He previously co-founded Jinso to provide remote research opportunities to high school students. He is also a member of the Harvard Effective Altruism Student Group.</description>
+    </item>
+    
+    <item>
+      <title>Explainer</title>
+      <link>http://spacefuturesinitiative.org/explainer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/explainer/</guid>
       <description>Contributors: Madeleine Chang, Carson Ezell, Olaf Willner  
 The New Frontier
   Humanity has long been progressing towards new frontiers, whether terrestrial (e.g., colonization) or scientific and technological (e.g., industrialization). We are now reaching a stage of planetary closure. Almost all of earth’s terrestrial space has been explored, with much of it developed. Our technological ‘progress’ poses growing existential risks of planetary catastrophe, including climate change, nuclear weapons, and artificial intelligence.</description>
@@ -130,40 +168,105 @@ The New Frontier
     
     <item>
       <title>Go Further</title>
-      <link>http://example.org/pages/further/</link>
+      <link>http://spacefuturesinitiative.org/pages/further/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/pages/further/</guid>
+      <guid>http://spacefuturesinitiative.org/pages/further/</guid>
       <description>To read an in-depth introduction to space governance, go to the Explainer.  
 If you are interested in reading more articles about particular topics within space governance, check out our Resources page.  
 To explore thoughts and ideas on space governance beyond this website, view our Blog page.</description>
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>http://example.org/pages/introduction/</link>
+      <title>Grants</title>
+      <link>http://spacefuturesinitiative.org/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/pages/introduction/</guid>
+      <guid>http://spacefuturesinitiative.org/grants/</guid>
+      <description>This website was made by Olaf Willner, a student at Cornell University and a research fellow at the Tech Policy Lab, with valuable help from Carson Ezell.  
+I would like to thank Fin Moorhouse and Madeleine Chang for their generous help and guidance.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://spacefuturesinitiative.org/pages/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/pages/introduction/</guid>
       <description>Within the past sixty years, nations and private organizations have seen great advancements and milestones in space exploration and spacefaring technology. Space is used for a variety of purposes including navigation, communication, and surveillance.  
 However, human exploration of the cosmos is just getting started. Governments are developing new technologies to use space-based systems to improve national security. Private sector individuals are pursuing space-based energy systems, mining, settlement and more.</description>
     </item>
     
     <item>
-      <title>Research Agenda</title>
-      <link>http://example.org/research-agenda/</link>
+      <title>Madeleine Chang</title>
+      <link>http://spacefuturesinitiative.org/team-members/maddy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/research-agenda/</guid>
+      <guid>http://spacefuturesinitiative.org/team-members/maddy/</guid>
+      <description>Madeleine Chang is a satellite software engineer at Lockheed Martin Space. She earned her Masters of Engineering Management at Cornell University, where she majored in Astronomy and Computer Science as an undergraduate. She publishes Type-3 Telemetry, a space governance comic blog started at the Future of Humanity Institute at Oxford University. In the past, Madeleine has worked in liquidity risk management at Goldman Sachs and galaxy evolution research at the American Museum of Natural History.</description>
+    </item>
+    
+    <item>
+      <title>Olaf Willner</title>
+      <link>http://spacefuturesinitiative.org/team-members/olaf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/team-members/olaf/</guid>
+      <description>Olaf Willner is an undergraduate at Cornell University studying towards a double major in Computer Science and Government. He is a research fellow at the Cornell Tech Policy Lab, was a scholar at the Institute of Politics and Global Affairs, and was a research intern at Microsoft Research Cambridge. He has also worked in private equity and consulting.</description>
+    </item>
+    
+    <item>
+      <title>Opportunities</title>
+      <link>http://spacefuturesinitiative.org/opportunities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/opportunities/</guid>
+      <description>Coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>http://spacefuturesinitiative.org/papers-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/papers-intro/</guid>
+      <description>Space Futures Initiative research papers written by researchers at SFI and affiliates, guided by our research agenda. See below our most recent papers:
+ </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://spacefuturesinitiative.org/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Agenda</title>
+      <link>http://spacefuturesinitiative.org/research-agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/research-agenda/</guid>
       <description>Under construction!</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>http://example.org/resources/</link>
+      <link>http://spacefuturesinitiative.org/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/resources/</guid>
+      <guid>http://spacefuturesinitiative.org/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>http://spacefuturesinitiative.org/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://spacefuturesinitiative.org/team/</guid>
       <description></description>
     </item>
     

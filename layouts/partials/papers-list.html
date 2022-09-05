@@ -3,7 +3,7 @@
     <p>{{ .Content }}</p>
   </div>
   <div class="pt-4 md:pt-8">
-    {{ range (where .Site.Pages "Section" "papers") }}
+    {{ range (where .Site.Pages "Section" "research-papers") }}
     {{ range .Pages }}
     {{ partial "list-item.html" .}}
     {{ end }}
