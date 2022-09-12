@@ -3,7 +3,8 @@ title: Announcement
 description:
 type: "page"
 layout: "about"
-images: /images/juno-dark.jpeg
+images: /images/clyde-spot.jpeg
+source: Juno's view of "Clyde's Spot" on Jupiter. Credit NASA/JPL
 ---
 
 We are excited to announce the Space Futures Initiative, which has a mission of conducting research, education, and outreach to improve the longterm future in outer space for humanity and its descendants.

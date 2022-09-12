@@ -5,4 +5,4 @@ type: "page"
 layout: "research-agenda"
 ---
 
-Under construction!
+Our [research agenda](/images/SFI_Research_Agenda.pdf) informs our research.
