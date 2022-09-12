@@ -16,4 +16,4 @@ With rapid advancements and countless possibilities, the implications of how hum
 </br>
 </br>
 
-Space governance is a broad area which encompasses contemporary issues in space regulation and long-term questions spanning the fields of law, politics, philosophy, astronomy, engineering, and more. This website aims to provide a broad overview of the field of space governance and an in-depth exploration of the topics within it.
+Space governance is a broad area which encompasses contemporary issues in space regulation and long-term questions spanning the fields of law, politics, philosophy, astronomy, engineering, and more.
