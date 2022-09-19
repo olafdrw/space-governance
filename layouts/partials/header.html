@@ -38,13 +38,13 @@
   <!-- Responsive Nav Bar -->
   <div id="nav" class="hidden overflow-y-hidden fixed h-screen inset-0
     bg-black">
-    <button id="close" class="z-10 absolute text-4xl text-white p-4">&times;</button>
+    <button id="close" class="z-10 absolute text-4xl text-black p-4">&times;</button>
     <div id="text" class="relative pt-16 w-screen text-center">
       {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}" class="text-lg py-5 text-white block">{{ .Name }}</a>
+      <a href="{{ .URL }}" class="text-lg py-5 text-black block">{{ .Name }}</a>
       {{ if .HasChildren }}
       {{ range .Children }}
-      <a href="{{ .URL }}" class="text-lg py-5 text-white block">{{ .Name }}</a>
+      <a href="{{ .URL }}" class="text-lg py-5 text-black block">{{ .Name }}</a>
       {{ end }}
       {{ end }}
       {{ end }}

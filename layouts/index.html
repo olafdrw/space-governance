@@ -3,24 +3,88 @@
   <!-- Head -->
   {{ partial "head.html" .}}
   <body class="font-ibm">
-    <div class="h-4/6">
+    <div class="h-screen bg-hero bg-cover">
       <div class="max-w-screen-2xl mx-auto">
-        {{ partial "header.html" .}}
+        <!-- Begin Header -->
+        <!-- Large Viewport Nav Bar -->
+        <div class="px-6 md:px-24 lg:px-32">
+          <header class="py-12 flex justify-between">
+            <div class="mr-6 flex">
+              <a href="/index.html" class="font-ibm text-3xl text-white
+                no-underline">Space
+                Futures Initiative</a>
+            </div>
+            <ul class="md:flex list-none hidden font-ibm">
+              {{ range .Site.Menus.main }}
+              <div class="ml-16 my-2">
+                <li class="peer"><a href="{{ .URL }}" class="text-white
+                    hover:text-gray-300 pb-1">{{ .Name }}</a></li>
+                {{ if .HasChildren }}
+                <div class="hidden peer-hover:block hover:block text-left
+                  left-auto absolute">
+                  {{ range .Children }}
+                  <div>
+                    <a href="{{ .URL }}" class="text-white
+                      hover:text-gray-300">{{ .Name }}</a>
+                  </div>
+                  {{ end }}
+                </div>
+                {{ end }}
+              </div>
+              {{ end }}
+            </ul>
+            <button id="open" class="sm:hidden flex items-center">
+              <svg class="block h-6 w-6 sm:hidden" xmlns="http://www.w3.org/2000/svg"
+                fill="none" viewBox="0 0 20 20" stroke="white">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+              </button>
+            </header>
+          </div>
+
+          <!-- Responsive Nav Bar -->
+          <div id="nav" class="hidden overflow-y-hidden fixed h-screen inset-0
+            bg-black">
+            <button id="close" class="z-10 absolute text-4xl text-white p-4">&times;</button>
+            <div id="text" class="relative pt-16 w-screen text-center">
+              {{ range .Site.Menus.main }}
+              <a href="{{ .URL }}" class="text-lg py-5 text-white block">{{ .Name }}</a>
+              {{ if .HasChildren }}
+              {{ range .Children }}
+              <a href="{{ .URL }}" class="text-lg py-5 text-white block">{{ .Name }}</a>
+              {{ end }}
+              {{ end }}
+              {{ end }}
+            </div>
+          </div>
+          <script> 
+          // Close
+          $("#close").click(function(){
+              $("#nav").fadeToggle('fast');
+          });
+
+          // Open
+          $("#open").click(function(){
+              $("#nav").fadeToggle('fast');
+          });
+        </script>
+        <!-- End Header -->
         <div class="pt-4 md:pt-8 lg:pt-12 px-6 md:px-24 lg:px-32
           animate-fade-in-up">
           <div class="block">
-            <div class="text-black font-ibm font-normal
+            <div class="text-white font-ibm font-normal
               leading-tight lg:tracking-tight pb-5 max-w-3xl md:flex box-border">
               <p class="block text-2xl md:text-5xl">Announcing the </br> Space Futures Initiative</p>
             </div>
-            <div class="mt-4 md:mt-8 pt-6 border-t-4 border-black max-w-xxs md:max-w-xs">
-              <a href="/announcement" class="font-ibm font-normal text-sm md:text-lg text-black">Read our announcement ></a>
+            <div class="mt-4 md:mt-8 pt-6 border-t-4 border-white max-w-xxs md:max-w-xs">
+              <a href="/announcement" class="font-ibm font-normal text-sm md:text-lg text-white">Read our announcement ></a>
             </div>
           </div>
-          <div class="mt-4 md:mt-8">
+          <!-- <div class="mt-4 md:mt-8">
             <img src="/images/voyager-jupiter.jpeg" style="width: 1440px" alt="">
             <p class="text-s text-zinc-700 pt-4 italic">Voyager I's View of Jupiter's Great Red Spot. Credit: NASA/JPL</p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
