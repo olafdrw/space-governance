@@ -5,11 +5,20 @@
     <loc>http://spacefuturesinitiative.org/resource-section/books/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
   </url><url>
+    <loc>http://spacefuturesinitiative.org/team-members/maddy/</loc>
+    <lastmod>2022-09-19T16:39:25-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/team-members/carson/</loc>
+    <lastmod>2022-09-19T16:39:25-04:00</lastmod>
+  </url><url>
     <loc>http://spacefuturesinitiative.org/resource-section/writing/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
   </url><url>
     <loc>http://spacefuturesinitiative.org/resource-section/historical/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
+  </url><url>
+    <loc>http://spacefuturesinitiative.org/team-members/olaf/</loc>
+    <lastmod>2022-09-19T16:39:25-04:00</lastmod>
   </url><url>
     <loc>http://spacefuturesinitiative.org/resource-section/podcasts/</loc>
     <lastmod>2022-04-06T23:49:46-04:00</lastmod>
@@ -27,7 +36,7 @@
     <lastmod>2022-09-11T20:35:25-04:00</lastmod>
   </url><url>
     <loc>http://spacefuturesinitiative.org/</loc>
-    <lastmod>2022-09-11T22:12:19-04:00</lastmod>
+    <lastmod>2022-09-19T16:39:25-04:00</lastmod>
   </url><url>
     <loc>http://spacefuturesinitiative.org/research-papers/risks-frameworks-futures/</loc>
     <lastmod>2022-09-11T20:35:25-04:00</lastmod>
@@ -50,9 +59,6 @@
     <loc>http://spacefuturesinitiative.org/blog/</loc>
     <lastmod>2022-04-09T21:28:01-04:00</lastmod>
   </url><url>
-    <loc>http://spacefuturesinitiative.org/team-members/carson/</loc>
-    <lastmod>2022-09-01T22:25:59-04:00</lastmod>
-  </url><url>
     <loc>http://spacefuturesinitiative.org/categories/</loc>
   </url><url>
     <loc>http://spacefuturesinitiative.org/explainer/</loc>
@@ -67,14 +73,8 @@
     <loc>http://spacefuturesinitiative.org/pages/introduction/</loc>
     <lastmod>2022-09-11T22:12:19-04:00</lastmod>
   </url><url>
-    <loc>http://spacefuturesinitiative.org/team-members/maddy/</loc>
-    <lastmod>2022-09-01T22:25:59-04:00</lastmod>
-  </url><url>
-    <loc>http://spacefuturesinitiative.org/team-members/olaf/</loc>
-    <lastmod>2022-09-01T22:25:59-04:00</lastmod>
-  </url><url>
     <loc>http://spacefuturesinitiative.org/opportunities/</loc>
-    <lastmod>2022-09-11T22:12:19-04:00</lastmod>
+    <lastmod>2022-09-19T16:39:25-04:00</lastmod>
   </url><url>
     <loc>http://spacefuturesinitiative.org/pages/</loc>
     <lastmod>2022-09-11T22:12:19-04:00</lastmod>
@@ -100,6 +100,6 @@
     <lastmod>2022-09-01T22:25:59-04:00</lastmod>
   </url><url>
     <loc>http://spacefuturesinitiative.org/team-members/</loc>
-    <lastmod>2022-09-01T22:25:59-04:00</lastmod>
+    <lastmod>2022-09-19T16:39:25-04:00</lastmod>
   </url>
 </urlset>
