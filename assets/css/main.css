@@ -11,4 +11,8 @@
     list-style-type: disc;
     margin: 1em;
   }
+
+  blockquote {
+    margin: 1.5em
+  }
 }
