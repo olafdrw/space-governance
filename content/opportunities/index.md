@@ -6,6 +6,8 @@ layout: "opportunities"
 images: 
 ---
 
+**Deadline: October 31, 2022**\
+\
 The Space Futures Initiative is looking to support space governance and space futures research projects by graduate students, undergraduates, or others. Applicants can apply individually, with collaborators, or with a mentor. You can also request to be introduced to potential collaborators, or we can find you a mentor with relevant expertise for your project.\
 \
 Our stipends are typically $2,500, and we expect a time commitment of 5-10 hours per week over the course of an academic semester (about 14 weeks). We may offer stipends of smaller or larger amounts for projects that differ in duration or time-intensity, especially if we find it impactful to see a more in-depth analysis or a brief exploration of a particular topic. We may also have additional funding available after the project has been completed to support travel to conferences to present your findings.\
