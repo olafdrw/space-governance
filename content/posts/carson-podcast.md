@@ -2,7 +2,7 @@
 title: Space Governance with Carson Ezell - The Good Pod
 author: Carson Ezell
 date: 2022-08-24T00:00:01+0000
-images: 
+images: /images/sfi-holding.png
 source: 
 ---
 

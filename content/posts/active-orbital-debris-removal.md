@@ -2,7 +2,7 @@
 title: "U.S. Policy Memo: Active Orbital Debris Removal"
 author: Madeleine Chang
 date: 2022-10-16T00:00:01+0000
-images: 
+images: /images/sfi-holding.png
 source: 
 ---
 
