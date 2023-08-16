@@ -93,7 +93,7 @@ Einstein's famous equation E=MC2  suggests it may also be possible to cheaply co
 To avoid these problems, it may be simpler to tax mass-energy as a single unit, which also has the benefit of being easy for authorities to estimate.
 \
 \
-Note that the definition of natural resources in space may change significantly in the future. Interstellar civilizations may find uses for more exotic natural resources such as dark matter, dark energy, fundamental particles, or antimatter. In each case, tax policy will need to determine how to encourage appropriate use of these resources without creating distortions.
+Note that the definition of natural resources in space may change significantly in the future. Interstellar civilizations may find uses for more exotic natural resources such as dark matter, dark energy, fundamental particles, or antimatter. In each case, tax policy will need to determine how to encourage appropriate use of these resources without creating distortions.\
 \
 *Taxing Land in Space*\
 \
@@ -106,7 +106,7 @@ In the future, colonies at Lagrange points may also be subject to a land value t
 Assessment may be more difficult for space colonies with varying geometries, but the principle remains the same; owners are taxed based on the rent they could charge for the undeveloped region they possess.
 \
 \
-Besides proximity to economic activity, direct access to sunlight will have a large effect on property values as it gives owners a consistent source of energy. New forms of "sun rights" will have to be developed to prevent structures from blocking an owner's access to sunlight.
+Besides proximity to economic activity, direct access to sunlight will have a large effect on property values as it gives owners a consistent source of energy. New forms of "sun rights" will have to be developed to prevent structures from blocking an owner's access to sunlight.\
 \
 *Other Important Resources*\
 \
@@ -122,14 +122,14 @@ Orbits are another rivalrous resource that requires management. Valuable orbits 
 Other situations may arise where many users compete for access to certain rights-of-way, creating congestion. Where possible, tolls similar to road pricing can be used to reduce congestion.
 \
 \
-Each celestial body will have associated orbits, communications bands, and other congestible resources. Georgist policies will have to be extended to the particulars of each situation, ensuring that users pay a fair price for exclusive use of such scarce resources.
+Each celestial body will have associated orbits, communications bands, and other congestible resources. Georgist policies will have to be extended to the particulars of each situation, ensuring that users pay a fair price for exclusive use of such scarce resources.\
 \
 *Pigouvian Taxation*\
 \
 Taxing externalities is used to discourage negative-sum activities such as pollution. In space, there are several important externalities to take into account. Many of the fees in the previous section designed to reduce congestion can be thought of as a tax on "congestion externalities".
 \
 \
-Orbital debris is a particularly damaging form of pollution in space which can destroy satellites. At an extreme, the cascading effects of space junk can lead to [Kessler Syndrome](https://en.wikipedia.org/wiki/Kessler_syndrome), making entire orbits unusable . To reduce the production of such debris, states will have to heavily fine individuals who generate orbital debris and fund cleanup efforts.
+Orbital debris is a particularly damaging form of pollution in space which can destroy satellites. At an extreme, the cascading effects of space junk can lead to [Kessler Syndrome](https://en.wikipedia.org/wiki/Kessler_syndrome), making entire orbits unusable . To reduce the production of such debris, states will have to heavily fine individuals who generate orbital debris and fund cleanup efforts.\
 \
 **Other Considerations**\
 \
@@ -144,7 +144,7 @@ Looking towards the future, strong physical limitations prevent certain forms of
 The absolute number of citizens and places important constraints on tax technology. The resources of the solar system and beyond may support many billions of individuals in the far future. Additionally, many activities in space may be carried out by autonomous robotic systems. With this in mind, it's important to consider whether ownership records can feasibly be extended to this scenario. It may not be cost-effective to track land ownership and resource extraction across billions of individuals using trillions of robotic systems; these difficulties may force tax authorities to splinter into more localized states, or focus the burden of taxation on the most valuable land.
 \
 \
-It may also be infeasible to tax many smallholders, identify who is using sunlight, or track extraction of resources from small asteroids. In these cases, the costs of enforcement will make collection impractical. Instead, states can focus on large property owners, corporations engaged in resource extraction, or build centralized infrastructure for trading natural resources; charging users bringing goods to market.
+It may also be infeasible to tax many smallholders, identify who is using sunlight, or track extraction of resources from small asteroids. In these cases, the costs of enforcement will make collection impractical. Instead, states can focus on large property owners, corporations engaged in resource extraction, or build centralized infrastructure for trading natural resources; charging users bringing goods to market.\
 \
 *Land Value Assessment*\
 \
@@ -186,7 +186,7 @@ The tax revenue generated by a successful settlement would be substantial. This 
 Alternatively, founders can offer certain individuals a portion of regional tax revenues. These individuals will then have an incentive to develop the land and can raise capital by borrowing on their future revenue.
 \
 \
-Land value taxes further encourage development by incentivizing landowners to use their land rather than let it lie fallow.
+Land value taxes further encourage development by incentivizing landowners to use their land rather than let it lie fallow.\
 \
 *Maximizing Growth*\
 \
