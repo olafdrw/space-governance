@@ -2,8 +2,8 @@
 title: "Adapting Land Value Taxation to Space"
 author: Sam Harsimony
 date: 2023-08-16T00:00:01+0000
-images: /images/jupiter2.jpeg
-source: "NASA"
+images: 
+source: 
 ---
 
 **Taxation and Space**\
@@ -26,6 +26,8 @@ The Alpha Centauri system is united under a single government, and wishes to bui
 \
 \
 This is a natural case where some form of taxation should be used to support the project. Done properly, taxes can be used for local public goods or redistributive efforts. However, care must be taken when designing the tax system. Inefficient taxes can be a drag on the economy, and unfair taxes threaten the legitimacy of the tax authority.\
+\
+![space](/images/image1.png)
 \
 *Principles of Taxation*\
 \
@@ -66,7 +68,7 @@ Georgism presents a balanced solution: individuals are granted strong property r
 George also advocated for excess taxes not spent on public goods to be returned to the public in the form of a "citizens dividend" which can be used to share the gains from economic growth.
 \
 \
-Georgist or land value taxes meet all of the desiderata for a tax system as they are fair, efficient, raise significant amounts of revenue, and are straightforward to assess. This is a strong reason to apply the Georgist approach to taxation in space. Here, we will consider how Georgism might be applied to stellar governance.\
+Georgist or land value taxes meet all of the desired data for a tax system as they are fair, efficient, raise significant amounts of revenue, and are straightforward to assess. This is a strong reason to apply the Georgist approach to taxation in space. Here, we will consider how Georgism might be applied to stellar governance.\
 \
 **Applying the Georgist Paradigm in Space**\
 \
@@ -87,13 +89,15 @@ When taxing materials use, care must be taken to avoid distorting incentives. It
 There are some other difficulties with taxing matter. In the future, it may be feasible to transmute some elements into others. Assuming this process is cheap enough, this would create elasticity in the supply of different elements, breaking the assumption that the supply of certain elements is inelastic like land. This means that taxes on matter will have to remain low in order to avoid distortions. 
 \
 \
-Einstein's famous equation E=MC2  suggests it may also be possible to cheaply convert matter into energy (or vice versa) in the future, which creates elasticity of supply in both matter and energy, meaning that the taxes on each will have to be reduced to avoid distortions. 
+Einstein's famous equation E=MC^2  suggests it may also be possible to cheaply convert matter into energy (or vice versa) in the future, which creates elasticity of supply in both matter and energy, meaning that the taxes on each will have to be reduced to avoid distortions. 
 \
 \
 To avoid these problems, it may be simpler to tax mass-energy as a single unit, which also has the benefit of being easy for authorities to estimate.
 \
 \
 Note that the definition of natural resources in space may change significantly in the future. Interstellar civilizations may find uses for more exotic natural resources such as dark matter, dark energy, fundamental particles, or antimatter. In each case, tax policy will need to determine how to encourage appropriate use of these resources without creating distortions.\
+\
+![space](/images/image2.png)
 \
 *Taxing Land in Space*\
 \
@@ -130,6 +134,8 @@ Taxing externalities is used to discourage negative-sum activities such as pollu
 \
 \
 Orbital debris is a particularly damaging form of pollution in space which can destroy satellites. At an extreme, the cascading effects of space junk can lead to [Kessler Syndrome](https://en.wikipedia.org/wiki/Kessler_syndrome), making entire orbits unusable . To reduce the production of such debris, states will have to heavily fine individuals who generate orbital debris and fund cleanup efforts.\
+\
+![space](/images/image3.png)
 \
 **Other Considerations**\
 \
