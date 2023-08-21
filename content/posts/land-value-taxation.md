@@ -2,8 +2,8 @@
 title: "Adapting Land Value Taxation to Space"
 author: Sam Harsimony
 date: 2023-08-16T00:00:01+0000
-images: 
-source: 
+images: /images/sfi-holding.png
+source: SFI
 ---
 
 **Taxation and Space**\
